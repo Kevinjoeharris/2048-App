@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: 2048-App
+  namespace: 2048-app
   name: deployment-2048
 spec:
   selector:
